@@ -3,6 +3,7 @@
 **SafeClick** is a Python-based CLI tool for scanning suspicious URLs. It detects phishing attempts, identifies the domain origin, and checks for malware using VirusTotal.
 
 ---
+![Screenshot 2025-06-25 112828](https://github.com/user-attachments/assets/000f2353-d238-4d3c-a861-986be05ec1fa)
 
 ## 🚀 Features
 
